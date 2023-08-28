@@ -1,0 +1,16 @@
+.image-cov   { 
+    height: 200px;
+}
+
+
+.profile-img {
+  height: 300px;
+  border-radius: 50%;
+}
+
+
+.icon-img { 
+  width : 100px;
+  border-radius: 20%;
+ 
+}
